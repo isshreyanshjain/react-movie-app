@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.14ec5843.chunk.css",
-    "main.js": "/my-app/static/js/main.2b6d8c55.chunk.js",
-    "main.js.map": "/my-app/static/js/main.2b6d8c55.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.070e71f6.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.070e71f6.js.map",
-    "static/css/2.45f551db.chunk.css": "/my-app/static/css/2.45f551db.chunk.css",
-    "static/js/2.78ce5578.chunk.js": "/my-app/static/js/2.78ce5578.chunk.js",
-    "static/js/2.78ce5578.chunk.js.map": "/my-app/static/js/2.78ce5578.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.e19cf089c1441544a935cba74c08df40.js": "/my-app/precache-manifest.e19cf089c1441544a935cba74c08df40.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/2.45f551db.chunk.css.map": "/my-app/static/css/2.45f551db.chunk.css.map",
-    "static/css/main.14ec5843.chunk.css.map": "/my-app/static/css/main.14ec5843.chunk.css.map",
-    "static/js/2.78ce5578.chunk.js.LICENSE.txt": "/my-app/static/js/2.78ce5578.chunk.js.LICENSE.txt",
-    "static/media/react-bootstrap-carousel.css": "/my-app/static/media/react-bootstrap-carousel.f7448c04.ttf"
+    "main.css": "/react-moviedb/static/css/main.14ec5843.chunk.css",
+    "main.js": "/react-moviedb/static/js/main.adb2bc23.chunk.js",
+    "main.js.map": "/react-moviedb/static/js/main.adb2bc23.chunk.js.map",
+    "runtime-main.js": "/react-moviedb/static/js/runtime-main.4a0a6363.js",
+    "runtime-main.js.map": "/react-moviedb/static/js/runtime-main.4a0a6363.js.map",
+    "static/css/2.e0f56c6f.chunk.css": "/react-moviedb/static/css/2.e0f56c6f.chunk.css",
+    "static/js/2.78ce5578.chunk.js": "/react-moviedb/static/js/2.78ce5578.chunk.js",
+    "static/js/2.78ce5578.chunk.js.map": "/react-moviedb/static/js/2.78ce5578.chunk.js.map",
+    "index.html": "/react-moviedb/index.html",
+    "precache-manifest.091d9331c85353c34c364b576eed6ead.js": "/react-moviedb/precache-manifest.091d9331c85353c34c364b576eed6ead.js",
+    "service-worker.js": "/react-moviedb/service-worker.js",
+    "static/css/2.e0f56c6f.chunk.css.map": "/react-moviedb/static/css/2.e0f56c6f.chunk.css.map",
+    "static/css/main.14ec5843.chunk.css.map": "/react-moviedb/static/css/main.14ec5843.chunk.css.map",
+    "static/js/2.78ce5578.chunk.js.LICENSE.txt": "/react-moviedb/static/js/2.78ce5578.chunk.js.LICENSE.txt",
+    "static/media/react-bootstrap-carousel.css": "/react-moviedb/static/media/react-bootstrap-carousel.f7448c04.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.070e71f6.js",
-    "static/css/2.45f551db.chunk.css",
+    "static/js/runtime-main.4a0a6363.js",
+    "static/css/2.e0f56c6f.chunk.css",
     "static/js/2.78ce5578.chunk.js",
     "static/css/main.14ec5843.chunk.css",
-    "static/js/main.2b6d8c55.chunk.js"
+    "static/js/main.adb2bc23.chunk.js"
   ]
 }
